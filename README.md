@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently a 2nd year Finance major student at the Univeristy of Melbourne. 
+I am currently a 3rd year Finance major student at the Univeristy of Melbourne. 
 
 Aside from school, I like to learn programming as a hobby. From time to time, I would get inspired to use my programming knowledge to create a project that is related to my field of study. 
 
